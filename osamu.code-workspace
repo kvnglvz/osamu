@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.suggestionActions.enabled": false,
+		"javascript.suggestionActions.enabled": false
+	}
+}
